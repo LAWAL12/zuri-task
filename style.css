@@ -1,0 +1,30 @@
+body{
+    font-style: cambria;
+    font-size: large;
+    margin: 5% 15% 5% 15%;
+}
+.my-head{
+    text-align: center;
+    line-height: 40%;
+}
+.first-p{
+    text-align: center;
+
+}
+h3{
+    color:rgb(27, 27, 156);
+    
+}
+
+.deg{
+    display: flex;
+    justify-content: space-between;
+}
+.reg{
+    display: flex;
+    justify-content: space-between;
+}
+.bid{
+    text-align: right;
+    
+}
